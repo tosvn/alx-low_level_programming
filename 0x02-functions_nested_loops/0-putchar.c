@@ -2,9 +2,7 @@
 
 /** 
  * main - print _putchar and a new line
- *
  * Description: prints _putchar using putchar prototype
- *
  * Return: Always 0
  */
 int main(void)
